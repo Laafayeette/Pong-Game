@@ -35,3 +35,5 @@ Delve into the world of computer hardware engineering by exploring the synthesis
 ## An image of the end-result
 <img width="376" alt="Screenshot 2023-12-25 at 06 15 39" src="https://github.com/ermia1230/Pong-IS1200/assets/149333804/1055c23e-7c2f-403b-8538-bd0b2f397e59">
 
+A Collaboration with Ermia Ghaffari.
+
